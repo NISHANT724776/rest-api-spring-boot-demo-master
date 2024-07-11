@@ -1,1 +1,1 @@
-# rest-api-spring-boot-demo
+# rest-api-spring-boot-Vendors-Detail-Fetcher
